@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    color: darksalmon;
+}
+
+#imgheader {
+    width: 950px;
+}
+.whats_new_li {
+    margin: 13px;
+}
+
+.whats_new_li h4 {
+    border-bottom: 1px solid yellow;
+    padding: 8px;
+}
+
+.whats_new_li img {
+    border-radius: 25px;
+    background-color: blueviolet;
+}
+
+
+.movie-head {
+    font-size: 25px;ṣ
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie-head i {
+    float: right;
+}
+
+.movie-text span {
+    color: coral;
+}
